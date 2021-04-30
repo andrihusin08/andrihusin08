@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @andrihusin08
-- 👀 I’m interested in teaching 
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on app developer
-- 📫 How to reach me psisquare2017@gmail.com
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!---
 andrihusin08/andrihusin08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
